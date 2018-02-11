@@ -20,4 +20,4 @@ yarn-error.log*
 *.sln
 
 # npm file
-/package-lock.json
+package-lock.json
